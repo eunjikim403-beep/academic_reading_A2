@@ -9,10 +9,9 @@ window.READING_DATA = [
     ],
     "questions": [
       "1. According to paragraph, which of the following is NOT a question that paleontologists asked about the Cambrian explosion? a. Why was the origin of life a simple ste p in Earth’s history? b. Why did it take so long for multicellular organisms to develop? c. Why did animal life evolve so rapidly? d. Why does the fossil record lack evidence of animal evolution during that time?",
-      "2. Which of the following describes the relationship between paragraph 1 and paragraph 2? a. Paragraph 1 puts forward several scientific claims, one of which is rejected in paragraph 2. b. Paragraph 1 poses several questions, and paragraph",
-      "3. offers a possible answer to one of them. c. Paragr aph 1 presents outdated traditional views, while paragraph 2 presents the current scientific conclusions. d. Paragraph 1 introduces a generalization that is illustrated by specific examples in paragraph 2.",
-      "4. Look at the four squares [■] that indicate wh ere the following sentence could be added to the passage. It is relatively rare because the fossilization of soft - bodied animals requires a special environment.",
-      "5. Which of the followin g is NOT mentioned in paragraph as being true of the Ediacara formation? a. It contains fossils that date back to the Precambrian period. b. It contains only soft-bodied animal fossils c. It is located on a single site in Australia. d. It does not contain any fossils of the ancestors of modern animals."
+      "2. Which of the following describes the relationship between paragraph 1 and paragraph 2? a. Paragraph 1 puts forward several scientific claims, one of which is rejected in paragraph 2. b. Paragraph 1 poses several questions, and paragraph 2 offers a possible answer to one of them. c. Paragraph 1 presents outdated traditional views, while paragraph 2 presents the current scientific conclusions. d. Paragraph 1 introduces a generalization that is illustrated by specific examples in paragraph 2.",
+      "3. Look at the four squares [■] that indicate where the following sentence could be added to the passage. It is relatively rare because the fossilization of soft-bodied animals requires a special environment.",
+      "4. Which of the following is NOT mentioned in paragraph as being true of the Ediacara formation? a. It contains fossils that date back to the Precambrian period. b. It contains only soft-bodied animal fossils. c. It is located on a single site in Australia. d. It does not contain any fossils of the ancestors of modern animals."
     ]
   },
   {
